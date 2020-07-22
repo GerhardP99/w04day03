@@ -1,5 +1,6 @@
-Product{name='evian', price=1.25, quantity=10, description='water'}
-Product{name='milka', price=2.5, quantity=25, description='chocolate'}
-Product{name='allinson's', price=5.35, quantity=12, description='bred'}
-Product{name='Coca-Cola', price=2.0, quantity=50, description='soft drink'}
-Product{name='chiappetti', price=12.22, quantity=125, description='deluxe meat'}
+[Productname = evian | price = 1.25 | quantity = 10 | description = water
+, Productname = milka | price = 2.5 | quantity = 25 | description = chocolate
+, Productname = allinson's | price = 5.35 | quantity = 12 | description = bred
+, Productname = Coca-Cola | price = 2.0 | quantity = 50 | description = soft drink
+, Productname = chiappetti | price = 12.22 | quantity = 125 | description = deluxe meat
+]
